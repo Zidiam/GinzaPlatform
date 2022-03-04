@@ -1,0 +1,12 @@
+504,360,grassBlock 
+0,504,grassBlock 
+0,504,grassBlock 
+0,504,grassBlock 
+0,504,grassBlock 
+24,504,grassBlock 
+24,504,grassBlock 
+24,504,grassBlock 
+48,504,grassBlock 
+72,504,grassBlock 
+72,504,grassBlock 
+96,504,grassBlock 
